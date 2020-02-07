@@ -12,15 +12,6 @@ values2 = [sheet2.row_values(rownum) for rownum in range(sheet2.nrows)]
 
 reference = {}
 
-# Раскладка
-for days in range(1,10):
-    day = 'day{}'.format(str(days))
-    daysname = defaultdict(list)
-    for cols in range(1,sheet2.nrows):
-        if sheet2.cell_value(cols,0) == days:
-            day = daysname[sheet2.cell_value(cols,1)].append(sheet2.cell_value(cols,2))
-    print('Раскладка по меню за день {}: {}'.format(days, daysname))
-
 # Справочник
 for cols in range(1,sheet1.nrows):
     reference[sheet1.cell_value(cols,0)] = sheet1.row_values(cols,1)
@@ -42,10 +33,18 @@ def sum_of_nutrients(nutrient, day):
     return(sum(list(itertools.chain.from_iterable(result_list))))
 
 # Вывод результатов по дням с отбрасыванием дробной части
+
+# Раскладка
 print("-" * 20)
-print("Суммарная калорийность и сумма белков, жиров, углеводов по данной раскладке по дням:")
-# Цикл по параметрам-нутриентам
-for i in range(4):
-    for j in range(1,10):
-        name_of_day = 'day{}'.format(j)
-        # print(math.floor(sum_of_nutrients(i, eval(name_of_day))), end=" ")
+print("Суммарная калорийность и сумма белков, жиров, углеводов по данной раскладке по дням: \n")
+for days in range(1,10):
+    daysname = defaultdict(list)
+    for cols in range(1,sheet2.nrows):
+        if sheet2.cell_value(cols,0) == days:
+            daysname[sheet2.cell_value(cols,1)].append(sheet2.cell_value(cols,2))
+    #print('Раскладка по меню за день {}: {}'.format(days, daysname))
+    for j in range(4):
+        res = math.floor(sum_of_nutrients(j, daysname))
+        print(str(res).strip(), end=' ')
+    print("\n")
+
