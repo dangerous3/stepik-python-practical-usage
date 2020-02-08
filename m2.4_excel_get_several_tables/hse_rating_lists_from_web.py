@@ -1,4 +1,5 @@
-import xlrd, xlwt
+import xlrd
+import xlwt
 import urllib.request
 
 results = {}
@@ -15,7 +16,7 @@ for file in files:
     urllib.request.urlretrieve(url, '../samples/testhse.xlsx')
 
     # Добавьте ваш путь к файлу
-    rb = xlrd.open_workbook('~/Загрузки/hse_4zhur.xlsx')
+    rb = xlrd.open_workbook('/home/dangerous3/Загрузки/hse_4zhur.xlsx')
 
     # выбираем активный лист
     sheet = rb.sheet_by_index(0)
@@ -45,17 +46,32 @@ for file in files:
         # print(name, grades)
         # print(row)
     print(results)
-allsubj = sorted(allsubj)
-print(' ', '\t'.join(allsubj), sep='\t')
-for name in results:
-    print(name, end='\t')
-    for subj in allsubj:
-        if subj in results[name]:
-            print(results[name][subj], end='\t')
-        else:
-            print('', end='\t')
-    print()
 
+allsubj = sorted(allsubj)
+
+wrb = xlwt.Workbook()
+wrs = wrb.add_sheet('Testsheet')
+
+#в A1 записываем значение 'name'
+wrs.write(0, 0, 'name')
+
+for i in range(len(allsubj)):
+    wrs.write(0, i + 1, allsubj[i])
+
+rownum = 1
+
+for name in results:
+    wrs.write(rownum, 0, name)
+    for subjnum in range(len(allsubj)):
+        subj = allsubj[subjnum]
+        if subj in results[name]:
+            wrs.write(rownum, subjnum + 1, results[name][subj])
+        else:
+            wrs.write(rownum, subjnum + 1, '')
+    rownum += 1
+
+# сохраняем рабочую книгу
+wrb.save('../samples/results.xlsx')
 
     # Выводим строки с информацией о первом студенте
     #print(*vals[11])
