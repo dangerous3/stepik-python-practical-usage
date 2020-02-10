@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (8856 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="55.7186800" minlon="37.5781900" maxlat="55.7197200" maxlon="37.5807600"/>
+ <node id="335853968" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:07Z" user="AMDmi3" uid="133332" lat="55.7185026" lon="37.5795914"/>
+ <node id="335853969" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:06Z" user="AMDmi3" uid="133332" lat="55.7187053" lon="37.5798510"/>
+ <node id="335853970" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:05Z" user="AMDmi3" uid="133332" lat="55.7189766" lon="37.5791831"/>
+ <node id="335853981" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:10Z" user="AMDmi3" uid="133332" lat="55.7198922" lon="37.5801031"/>
+ <node id="335853982" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:08Z" user="AMDmi3" uid="133332" lat="55.7189509" lon="37.5788545"/>
+ <node id="335853983" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:07Z" user="AMDmi3" uid="133332" lat="55.7186772" lon="37.5795195"/>
+ <node id="335853984" visible="true" version="2" changeset="7600742" timestamp="2011-03-19T00:23:11Z" user="AMDmi3" uid="133332" lat="55.7185815" lon="37.5793970"/>
+ <node id="1204037598" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:54Z" user="AMDmi3" uid="133332" lat="55.7195864" lon="37.5783870"/>
+ <node id="1204037605" visible="true" version="1" changeset="7573833" timestamp="2011-03-16T09:44:45Z" user="AMDmi3" uid="133332" lat="55.7196827" lon="37.5790285"/>
+ <node id="1204037612" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:56Z" user="AMDmi3" uid="133332" lat="55.7193556" lon="37.5786971"/>
+ <node id="1204037632" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:47Z" user="AMDmi3" uid="133332" lat="55.7195160" lon="37.5783222"/>
+ <node id="1204037661" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:06:01Z" user="AMDmi3" uid="133332" lat="55.7196394" lon="37.5784585"/>
+ <node id="1204037673" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:06:02Z" user="AMDmi3" uid="133332" lat="55.7194709" lon="37.5788525"/>
+ <node id="1204037676" visible="true" version="1" changeset="7573833" timestamp="2011-03-16T09:44:48Z" user="AMDmi3" uid="133332" lat="55.7196552" lon="37.5789933"/>
+ <node id="1204037677" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:52Z" user="AMDmi3" uid="133332" lat="55.7196447" lon="37.5780213"/>
+ <node id="1204037684" visible="true" version="1" changeset="7573833" timestamp="2011-03-16T09:44:48Z" user="AMDmi3" uid="133332" lat="55.7197405" lon="37.5788864"/>
+ <node id="1204037687" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:52Z" user="AMDmi3" uid="133332" lat="55.7195782" lon="37.5784061"/>
+ <node id="1204037689" visible="true" version="1" changeset="7573833" timestamp="2011-03-16T09:44:49Z" user="AMDmi3" uid="133332" lat="55.7197130" lon="37.5788511"/>
+ <node id="1204037691" visible="true" version="2" changeset="8509539" timestamp="2011-06-21T22:26:28Z" user="AMDmi3" uid="133332" lat="55.7200299" lon="37.5782954"/>
+ <node id="1207905632" visible="true" version="5" changeset="11441626" timestamp="2012-04-28T14:45:26Z" user="Fantomas" uid="478018" lat="55.7179523" lon="37.5800924"/>
+ <node id="1207905994" visible="true" version="3" changeset="8508815" timestamp="2011-06-21T21:05:57Z" user="AMDmi3" uid="133332" lat="55.7187748" lon="37.5790720"/>
+ <node id="1207906088" visible="true" version="3" changeset="8508815" timestamp="2011-06-21T21:05:50Z" user="AMDmi3" uid="133332" lat="55.7200072" lon="37.5799066"/>
+ <node id="1207906135" visible="true" version="4" changeset="9484457" timestamp="2011-10-06T10:41:22Z" user="AMDmi3" uid="133332" lat="55.7200826" lon="37.5801055"/>
+ <node id="1207906176" visible="true" version="4" changeset="8508815" timestamp="2011-06-21T21:06:02Z" user="AMDmi3" uid="133332" lat="55.7186855" lon="37.5791078"/>
+ <node id="1207906199" visible="true" version="2" changeset="8501966" timestamp="2011-06-21T07:40:32Z" user="AMDmi3" uid="133332" lat="55.7165476" lon="37.5762139"/>
+ <node id="1208046240" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:57Z" user="AMDmi3" uid="133332" lat="55.7196465" lon="37.5800945"/>
+ <node id="1208046243" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7194543" lon="37.5772819"/>
+ <node id="1208046244" visible="true" version="2" changeset="9484307" timestamp="2011-10-06T10:10:50Z" user="AMDmi3" uid="133332" lat="55.7189909" lon="37.5818028"/>
+ <node id="1208046245" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:57Z" user="AMDmi3" uid="133332" lat="55.7196764" lon="37.5802072"/>
+ <node id="1208046248" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7190912" lon="37.5781630"/>
+ <node id="1208046252" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:57Z" user="AMDmi3" uid="133332" lat="55.7196850" lon="37.5800905"/>
+ <node id="1208046253" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:57Z" user="AMDmi3" uid="133332" lat="55.7197331" lon="37.5801556"/>
+ <node id="1208046255" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7188318" lon="37.5782059"/>
+ <node id="1208046257" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7188990" lon="37.5773620"/>
+ <node id="1208046260" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7189874" lon="37.5784111"/>
+ <node id="1208046264" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:58Z" user="AMDmi3" uid="133332" lat="55.7196982" lon="37.5802367"/>
+ <node id="1208046266" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7189350" lon="37.5779589"/>
+ <node id="1208046269" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:58Z" user="AMDmi3" uid="133332" lat="55.7197846" lon="37.5803537"/>
+ <node id="1208046271" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7189737" lon="37.5771864"/>
+ <node id="1208046273" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:58Z" user="AMDmi3" uid="133332" lat="55.7196618" lon="37.5800587"/>
+ <node id="1208046276" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:58Z" user="AMDmi3" uid="133332" lat="55.7177614" lon="37.5778099"/>
+ <node id="1208046279" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7193281" lon="37.5771156"/>
+ <node id="1208046281" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7188640" lon="37.5778653"/>
+ <node id="1208046286" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7190841" lon="37.5773320"/>
+ <node id="1208046291" visible="true" version="1" changeset="7600742" timestamp="2011-03-19T00:22:59Z" user="AMDmi3" uid="133332" lat="55.7197578" lon="37.5799210"/>
+ <node id="1208046292" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7193006" lon="37.5770809"/>
+ <node id="1208046294" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7190121" lon="37.5775111"/>
+ <node id="1208046297" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7192287" lon="37.5769862"/>
+ <node id="1208046300" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7194027" lon="37.5768368"/>
+ <node id="1208046301" visible="true" version="2" changeset="8501966" timestamp="2011-06-21T07:40:34Z" user="AMDmi3" uid="133332" lat="55.7186020" lon="37.5793041"/>
+ <node id="1208046309" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7195560" lon="37.5770388"/>
+ <node id="1208046315" visible="true" version="3" changeset="47246611" timestamp="2017-03-29T02:28:51Z" user="Alexander-II" uid="3580412" lat="55.7189616" lon="37.5779923"/>
+ <node id="1208046316" visible="true" version="2" changeset="11332014" timestamp="2012-04-17T14:16:09Z" user="Felis Pimeja" uid="260756" lat="55.7183986" lon="37.5787275"/>
+ <node id="1208156460" visible="true" version="2" changeset="8501966" timestamp="2011-06-21T07:40:35Z" user="AMDmi3" uid="133332" lat="55.7173572" lon="37.5772650"/>
+ <node id="1208156487" visible="true" version="2" changeset="8501966" timestamp="2011-06-21T07:40:36Z" user="AMDmi3" uid="133332" lat="55.7189713" lon="37.5786034"/>
+ <node id="1208156488" visible="true" version="3" changeset="8508815" timestamp="2011-06-21T21:05:55Z" user="AMDmi3" uid="133332" lat="55.7196498" lon="37.5770120"/>
+ <node id="1333238534" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:56Z" user="AMDmi3" uid="133332" lat="55.7206290" lon="37.5784526"/>
+ <node id="1333238535" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:58Z" user="AMDmi3" uid="133332" lat="55.7198430" lon="37.5773911"/>
+ <node id="1333238538" visible="true" version="3" changeset="8509539" timestamp="2011-06-21T22:26:32Z" user="AMDmi3" uid="133332" lat="55.7202018" lon="37.5778858"/>
+ <node id="1333238542" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:52Z" user="AMDmi3" uid="133332" lat="55.7190716" lon="37.5786763"/>
+ <node id="1333238544" visible="true" version="2" changeset="8756688" timestamp="2011-07-18T10:24:28Z" user="deep125" uid="65083" lat="55.7191116" lon="37.5782711"/>
+ <node id="1333238545" visible="true" version="1" changeset="8501966" timestamp="2011-06-21T07:41:17Z" user="AMDmi3" uid="133332" lat="55.7192800" lon="37.5784956"/>
+ <node id="1333238550" visible="true" version="8" changeset="50927748" timestamp="2017-08-07T20:48:10Z" user="literan" uid="830106" lat="55.7193862" lon="37.5801396">
+  <tag k="addr:housenumber" v="1 с2"/>
+  <tag k="addr:street" v="3-я Фрунзенская улица"/>
+  <tag k="building" v="service"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="power" v="substation"/>
+  <tag k="substation" v="minor_distribution"/>
+ </node>
+ <node id="1333238561" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:03Z" user="AMDmi3" uid="133332" lat="55.7189234" lon="37.5818240"/>
+ <node id="1333238562" visible="true" version="1" changeset="8501966" timestamp="2011-06-21T07:41:20Z" user="AMDmi3" uid="133332" lat="55.7181567" lon="37.5806516"/>
+ <node id="1333238563" visible="true" version="1" changeset="8501966" timestamp="2011-06-21T07:41:21Z" user="AMDmi3" uid="133332" lat="55.7181921" lon="37.5804719"/>
+ <node id="1333238564" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:01Z" user="AMDmi3" uid="133332" lat="55.7179034" lon="37.5800150"/>
+ <node id="1333238565" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:01Z" user="AMDmi3" uid="133332" lat="55.7181461" lon="37.5795123"/>
+ <node id="1333238568" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:02Z" user="AMDmi3" uid="133332" lat="55.7183104" lon="37.5794001"/>
+ <node id="1333238569" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:02Z" user="AMDmi3" uid="133332" lat="55.7182466" lon="37.5795197"/>
+ <node id="1333238573" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:00Z" user="AMDmi3" uid="133332" lat="55.7186805" lon="37.5800563"/>
+ <node id="1333238576" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:01Z" user="AMDmi3" uid="133332" lat="55.7186263" lon="37.5799831"/>
+ <node id="1333238577" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:01Z" user="AMDmi3" uid="133332" lat="55.7186453" lon="37.5799389"/>
+ <node id="1333238578" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:02Z" user="AMDmi3" uid="133332" lat="55.7183927" lon="37.5795975"/>
+ <node id="1333238579" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:02Z" user="AMDmi3" uid="133332" lat="55.7183004" lon="37.5798129"/>
+ <node id="1333238580" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:02Z" user="AMDmi3" uid="133332" lat="55.7186070" lon="37.5802275"/>
+ <node id="1333238597" visible="true" version="3" changeset="9484457" timestamp="2011-10-06T10:41:24Z" user="AMDmi3" uid="133332" lat="55.7163750" lon="37.5754151"/>
+ <node id="1333238598" visible="true" version="1" changeset="8501966" timestamp="2011-06-21T07:41:35Z" user="AMDmi3" uid="133332" lat="55.7166286" lon="37.5757648"/>
+ <node id="1333238599" visible="true" version="1" changeset="8501966" timestamp="2011-06-21T07:41:35Z" user="AMDmi3" uid="133332" lat="55.7165274" lon="37.5760253"/>
+ <node id="1333238603" visible="true" version="1" changeset="8501966" timestamp="2011-06-21T07:41:37Z" user="AMDmi3" uid="133332" lat="55.7172661" lon="37.5772200"/>
+ <node id="1333980050" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:38Z" user="AMDmi3" uid="133332" lat="55.7195806" lon="37.5785960"/>
+ <node id="1333980066" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:01Z" user="AMDmi3" uid="133332" lat="55.7196081" lon="37.5802031"/>
+ <node id="1333980072" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:40Z" user="AMDmi3" uid="133332" lat="55.7196974" lon="37.5787535"/>
+ <node id="1333980077" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:40Z" user="AMDmi3" uid="133332" lat="55.7199012" lon="37.5782770"/>
+ <node id="1333980081" visible="true" version="2" changeset="8509539" timestamp="2011-06-21T22:26:26Z" user="AMDmi3" uid="133332" lat="55.7195995" lon="37.5793173"/>
+ <node id="1333980085" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:40Z" user="AMDmi3" uid="133332" lat="55.7195462" lon="37.5792454"/>
+ <node id="1333980090" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:40Z" user="AMDmi3" uid="133332" lat="55.7197845" lon="37.5781195"/>
+ <node id="1333980095" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:41Z" user="AMDmi3" uid="133332" lat="55.7195833" lon="37.5793558"/>
+ <node id="1333980101" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:41Z" user="AMDmi3" uid="133332" lat="55.7195298" lon="37.5792837"/>
+ <node id="1333980102" visible="true" version="1" changeset="8508815" timestamp="2011-06-21T21:05:41Z" user="AMDmi3" uid="133332" lat="55.7192110" lon="37.5788611"/>
+ <node id="1334014323" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:58Z" user="AMDmi3" uid="133332" lat="55.7190089" lon="37.5817608"/>
+ <node id="1334014325" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:59Z" user="AMDmi3" uid="133332" lat="55.7183553" lon="37.5809554"/>
+ <node id="1334014330" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:59Z" user="AMDmi3" uid="133332" lat="55.7187537" lon="37.5799995"/>
+ <node id="1334014331" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:59Z" user="AMDmi3" uid="133332" lat="55.7196528" lon="37.5802622"/>
+ <node id="1334014334" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:59Z" user="AMDmi3" uid="133332" lat="55.7189712" lon="37.5817107"/>
+ <node id="1334014335" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:59Z" user="AMDmi3" uid="133332" lat="55.7197618" lon="37.5804068"/>
+ <node id="1334014338" visible="true" version="1" changeset="8509267" timestamp="2011-06-21T21:48:59Z" user="AMDmi3" uid="133332" lat="55.7190082" lon="37.5793888"/>
+ <node id="1468203172" visible="true" version="1" changeset="9563551" timestamp="2011-10-15T13:36:53Z" user="deep125" uid="65083" lat="55.7164550" lon="37.5755254"/>
+ <node id="1720547186" visible="true" version="2" changeset="47246611" timestamp="2017-03-29T02:28:54Z" user="Alexander-II" uid="3580412" lat="55.7189519" lon="37.5774317"/>
+ <node id="1720547616" visible="true" version="2" changeset="47246611" timestamp="2017-03-29T02:28:54Z" user="Alexander-II" uid="3580412" lat="55.7190268" lon="37.5772564"/>
+ <node id="1734162896" visible="true" version="1" changeset="11441626" timestamp="2012-04-28T14:45:10Z" user="Fantomas" uid="478018" lat="55.7188303" lon="37.5791474"/>
+ <node id="1734162897" visible="true" version="1" changeset="11441626" timestamp="2012-04-28T14:45:10Z" user="Fantomas" uid="478018" lat="55.7189340" lon="37.5792880"/>
+ <node id="1955023141" visible="true" version="1" changeset="13428527" timestamp="2012-10-09T15:21:36Z" user="rumigu" uid="212137" lat="55.7169341" lon="37.5767551"/>
+ <node id="1996356530" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7185295" lon="37.5809783"/>
+ <node id="1996356533" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7187119" lon="37.5805834"/>
+ <node id="1996356535" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7187350" lon="37.5812774"/>
+ <node id="1996356537" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7189174" lon="37.5808826"/>
+ <node id="1996356538" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7189316" lon="37.5800148"/>
+ <node id="1996356540" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7190347" lon="37.5797654"/>
+ <node id="1996356542" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7191625" lon="37.5803158"/>
+ <node id="1996356544" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:17Z" user="Fantomas" uid="478018" lat="55.7192656" lon="37.5800664"/>
+ <node id="2915819776" visible="true" version="1" changeset="22924122" timestamp="2014-06-14T11:40:00Z" user="s-tikhomirov" uid="1437066" lat="55.7200286" lon="37.5800325">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="3509132318" visible="true" version="2" changeset="47246611" timestamp="2017-03-29T02:29:01Z" user="Alexander-II" uid="3580412" lat="55.7191502" lon="37.5775412">
+  <tag k="entrance" v="yes"/>
+  <tag k="ref" v="3"/>
+ </node>
+ <node id="3509132319" visible="true" version="2" changeset="47246611" timestamp="2017-03-29T02:29:01Z" user="Alexander-II" uid="3580412" lat="55.7190251" lon="37.5780759">
+  <tag k="entrance" v="yes"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="3509132320" visible="true" version="2" changeset="47246611" timestamp="2017-03-29T02:29:01Z" user="Alexander-II" uid="3580412" lat="55.7193900" lon="37.5771972">
+  <tag k="entrance" v="yes"/>
+  <tag k="ref" v="5"/>
+ </node>
+ <node id="4315640599" visible="true" version="3" changeset="51328858" timestamp="2017-08-22T07:50:16Z" user="nyuriks" uid="339581" lat="55.7192486" lon="37.5792860">
+  <tag k="alt_name" v="Перекрёсток"/>
+  <tag k="brand" v="Перекресток"/>
+  <tag k="contact:facebook" v="https://www.facebook.com/perekrestok"/>
+  <tag k="contact:website" v="http://www.perekrestok.ru"/>
+  <tag k="name" v="Перекресток"/>
+  <tag k="name:en" v="Perekryostok"/>
+  <tag k="name:ru" v="Перекресток"/>
+  <tag k="opening_hours" v="Mo-Su 09:00-23:00"/>
+  <tag k="operator:wikidata" v="Q1684639"/>
+  <tag k="operator:wikipedia" v="ru:Перекрёсток (сеть магазинов)"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="4725556162" visible="true" version="1" changeset="46703423" timestamp="2017-03-09T09:03:34Z" user="joe371" uid="458515" lat="55.7172450" lon="37.5771905">
+  <tag k="barrier" v="lift_gate"/>
+ </node>
+ <node id="4725556163" visible="true" version="1" changeset="46703423" timestamp="2017-03-09T09:03:34Z" user="joe371" uid="458515" lat="55.7164822" lon="37.5755629">
+  <tag k="barrier" v="lift_gate"/>
+ </node>
+ <node id="6103693963" visible="true" version="4" changeset="65433548" timestamp="2018-12-13T08:18:44Z" user="aseerel4c26" uid="694726" lat="55.7193116" lon="37.5794850">
+  <tag k="amenity" v="pharmacy"/>
+  <tag k="contact:email" v="apt0222@fsapt.ru"/>
+  <tag k="contact:facebook" v="https://www.facebook.com/groups/aptekizvezda"/>
+  <tag k="contact:phone" v="+7 499 242-00-85"/>
+  <tag k="contact:vk" v="https://vk.com/aptekizvezda"/>
+  <tag k="contact:website" v="https://www.asna.ru/"/>
+  <tag k="name" v="АСНА - Северная Звезда"/>
+  <tag k="opening_hours" v="Mo-Su 00:00-23:59"/>
+  <tag k="operator" v="Фармастар"/>
+ </node>
+ <way id="30433138" visible="true" version="6" changeset="44128123" timestamp="2016-12-03T01:29:09Z" user="Erelen" uid="1419157">
+  <nd ref="1208046269"/>
+  <nd ref="1208046264"/>
+ </way>
+ <way id="104362059" visible="true" version="2" changeset="7599994" timestamp="2011-03-18T22:16:19Z" user="AMDmi3" uid="133332">
+  <nd ref="1204037689"/>
+  <nd ref="1204037684"/>
+  <nd ref="1204037605"/>
+  <nd ref="1204037676"/>
+  <nd ref="1204037689"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="104362075" visible="true" version="4" changeset="44128123" timestamp="2016-12-03T01:29:11Z" user="Erelen" uid="1419157">
+  <nd ref="1333980050"/>
+  <nd ref="1204037673"/>
+  <nd ref="1204037612"/>
+  <nd ref="1204037632"/>
+ </way>
+ <way id="104720668" visible="true" version="6" changeset="11441626" timestamp="2012-04-28T14:45:16Z" user="Fantomas" uid="478018">
+  <nd ref="1207905994"/>
+  <nd ref="1734162896"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="104720669" visible="true" version="4" changeset="8509539" timestamp="2011-06-21T22:26:33Z" user="AMDmi3" uid="133332">
+  <nd ref="1333980095"/>
+  <nd ref="1207906088"/>
+  <nd ref="1333238534"/>
+  <nd ref="1333238538"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="104720670" visible="true" version="7" changeset="22924122" timestamp="2014-06-14T11:40:05Z" user="s-tikhomirov" uid="1437066">
+  <nd ref="1207906135"/>
+  <nd ref="2915819776"/>
+  <nd ref="1208156487"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="104720671" visible="true" version="9" changeset="46703423" timestamp="2017-03-09T09:03:34Z" user="joe371" uid="458515">
+  <nd ref="1207906176"/>
+  <nd ref="1208046316"/>
+  <nd ref="1208046276"/>
+  <nd ref="1208156460"/>
+  <nd ref="1333238603"/>
+  <nd ref="4725556162"/>
+  <nd ref="1955023141"/>
+  <nd ref="1207906199"/>
+  <nd ref="1333238599"/>
+  <nd ref="1333238598"/>
+  <nd ref="4725556163"/>
+  <nd ref="1468203172"/>
+  <nd ref="1333238597"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="104737592" visible="true" version="3" changeset="11441626" timestamp="2012-04-28T14:45:22Z" user="Fantomas" uid="478018">
+  <nd ref="1208156487"/>
+  <nd ref="1207905994"/>
+  <nd ref="1207906176"/>
+  <nd ref="1208046301"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="104737604" visible="true" version="3" changeset="44128123" timestamp="2016-12-03T01:29:12Z" user="Erelen" uid="1419157">
+  <nd ref="1208046269"/>
+  <nd ref="335853981"/>
+  <nd ref="1208046291"/>
+  <nd ref="1208046252"/>
+  <nd ref="1208046253"/>
+  <nd ref="1208046264"/>
+ </way>
+ <way id="104737606" visible="true" version="5" changeset="50927748" timestamp="2017-08-07T21:11:46Z" user="literan" uid="830106">
+  <nd ref="1208046252"/>
+  <nd ref="1208046291"/>
+  <nd ref="335853982"/>
+  <nd ref="1734162896"/>
+  <nd ref="335853983"/>
+  <nd ref="335853984"/>
+  <nd ref="335853968"/>
+  <nd ref="335853969"/>
+  <nd ref="1734162897"/>
+  <nd ref="335853970"/>
+  <nd ref="1208046240"/>
+  <nd ref="1208046273"/>
+  <nd ref="1208046252"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:street" v="3-я Фрунзенская улица"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="8"/>
+ </way>
+ <way id="104745862" visible="true" version="3" changeset="8756688" timestamp="2011-07-18T10:24:24Z" user="deep125" uid="65083">
+  <nd ref="1208156488"/>
+  <nd ref="1333238544"/>
+  <nd ref="1208156487"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="118555409" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:56Z" user="AMDmi3" uid="133332">
+  <nd ref="1204037691"/>
+  <nd ref="1333980081"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="118555410" visible="true" version="2" changeset="8508815" timestamp="2011-06-21T21:05:47Z" user="AMDmi3" uid="133332">
+  <nd ref="1333238542"/>
+  <nd ref="1333980102"/>
+  <nd ref="1333980101"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="118555411" visible="true" version="3" changeset="11441626" timestamp="2012-04-28T14:45:17Z" user="Fantomas" uid="478018">
+  <nd ref="1333238544"/>
+  <nd ref="1333238545"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="118555413" visible="true" version="4" changeset="11441626" timestamp="2012-04-28T14:45:21Z" user="Fantomas" uid="478018">
+  <nd ref="1334014338"/>
+  <nd ref="1334014330"/>
+  <nd ref="1334014325"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="118555414" visible="true" version="5" changeset="11441626" timestamp="2012-04-28T14:45:25Z" user="Fantomas" uid="478018">
+  <nd ref="1333980066"/>
+  <nd ref="1334014334"/>
+  <nd ref="1333238561"/>
+  <nd ref="1334014325"/>
+  <nd ref="1333238562"/>
+  <nd ref="1333238563"/>
+  <nd ref="1207905632"/>
+  <nd ref="1333238564"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="118555415" visible="true" version="2" changeset="8509267" timestamp="2011-06-21T21:49:03Z" user="AMDmi3" uid="133332">
+  <nd ref="1333238573"/>
+  <nd ref="1333238576"/>
+  <nd ref="1333238577"/>
+  <nd ref="1333238578"/>
+  <nd ref="1333238579"/>
+  <nd ref="1333238580"/>
+  <nd ref="1333238573"/>
+  <tag k="amenity" v="kindergarten"/>
+ </way>
+ <way id="118646980" visible="true" version="4" changeset="8661942" timestamp="2011-07-07T22:37:04Z" user="esaulenka" uid="336354">
+  <nd ref="1333980081"/>
+  <nd ref="1333980095"/>
+ </way>
+ <way id="118646985" visible="true" version="2" changeset="44128123" timestamp="2016-12-03T01:29:12Z" user="Erelen" uid="1419157">
+  <nd ref="1333980050"/>
+  <nd ref="1204037661"/>
+  <nd ref="1204037598"/>
+  <nd ref="1204037687"/>
+  <nd ref="1204037632"/>
+ </way>
+ <way id="118650904" visible="true" version="4" changeset="25303422" timestamp="2014-09-08T09:28:28Z" user="literan" uid="830106">
+  <nd ref="1334014331"/>
+  <nd ref="1334014335"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+  <tag k="tunnel" v="building_passage"/>
+ </way>
+ <way id="118650908" visible="true" version="2" changeset="11441626" timestamp="2012-04-28T14:45:24Z" user="Fantomas" uid="478018">
+  <nd ref="1333238564"/>
+  <nd ref="1333238565"/>
+  <nd ref="1333238569"/>
+  <nd ref="1333238568"/>
+  <nd ref="1334014330"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="118653057" visible="true" version="1" changeset="8509539" timestamp="2011-06-21T22:26:21Z" user="AMDmi3" uid="133332">
+  <nd ref="1333238538"/>
+  <nd ref="1333238535"/>
+  <nd ref="1333980102"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="120745891" visible="true" version="1" changeset="8661942" timestamp="2011-07-07T22:36:28Z" user="esaulenka" uid="336354">
+  <nd ref="1333980095"/>
+  <nd ref="1333980101"/>
+  <nd ref="1333980085"/>
+  <nd ref="1333980081"/>
+ </way>
+ <way id="161450170" visible="true" version="3" changeset="25303422" timestamp="2014-09-08T09:28:29Z" user="literan" uid="830106">
+  <nd ref="1734162896"/>
+  <nd ref="1734162897"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+  <tag k="tunnel" v="building_passage"/>
+ </way>
+ <way id="161450179" visible="true" version="1" changeset="11441626" timestamp="2012-04-28T14:45:12Z" user="Fantomas" uid="478018">
+  <nd ref="1734162897"/>
+  <nd ref="1334014338"/>
+  <nd ref="1333980066"/>
+  <nd ref="1334014331"/>
+  <tag k="highway" v="service"/>
+  <tag k="living_street" v="yes"/>
+ </way>
+ <way id="188993987" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:20Z" user="Fantomas" uid="478018">
+  <nd ref="1996356533"/>
+  <nd ref="1996356537"/>
+  <nd ref="1996356535"/>
+  <nd ref="1996356530"/>
+  <nd ref="1996356533"/>
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="parking" v="surface"/>
+ </way>
+ <way id="188993988" visible="true" version="1" changeset="13741422" timestamp="2012-11-04T00:48:20Z" user="Fantomas" uid="478018">
+  <nd ref="1996356540"/>
+  <nd ref="1996356544"/>
+  <nd ref="1996356542"/>
+  <nd ref="1996356538"/>
+  <nd ref="1996356540"/>
+  <tag k="leisure" v="pitch"/>
+ </way>
+ <way id="457354246" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:28:56Z" user="Erelen" uid="1419157">
+  <nd ref="1208046264"/>
+  <nd ref="1208046245"/>
+  <nd ref="1334014331"/>
+  <nd ref="1334014323"/>
+  <nd ref="1208046244"/>
+ </way>
+ <way id="457354251" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:28:56Z" user="Erelen" uid="1419157">
+  <nd ref="1333980090"/>
+  <nd ref="1333980077"/>
+  <nd ref="1333980072"/>
+  <nd ref="1333980050"/>
+ </way>
+ <way id="457354252" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:28:56Z" user="Erelen" uid="1419157">
+  <nd ref="1204037632"/>
+  <nd ref="1204037677"/>
+ </way>
+ <way id="457354253" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:28:56Z" user="Erelen" uid="1419157">
+  <nd ref="1208046271"/>
+  <nd ref="1720547616"/>
+  <nd ref="1208046286"/>
+  <nd ref="1208046297"/>
+  <nd ref="1208046292"/>
+  <nd ref="1208046300"/>
+  <nd ref="1208046309"/>
+  <nd ref="1208046243"/>
+  <nd ref="3509132320"/>
+  <nd ref="1208046279"/>
+  <nd ref="3509132318"/>
+  <nd ref="1208046315"/>
+  <nd ref="3509132319"/>
+  <nd ref="1208046248"/>
+  <nd ref="1208046260"/>
+  <nd ref="1208046255"/>
+  <nd ref="1208046266"/>
+  <nd ref="1208046281"/>
+  <nd ref="1208046294"/>
+  <nd ref="1720547186"/>
+  <nd ref="1208046257"/>
+ </way>
+ <relation id="1634473" visible="true" version="4" changeset="47246611" timestamp="2017-03-29T02:30:03Z" user="Alexander-II" uid="3580412">
+  <member type="way" ref="104720669" role="outer"/>
+  <member type="way" ref="118555408" role="outer"/>
+  <member type="way" ref="118653060" role="outer"/>
+  <member type="way" ref="118555409" role="outer"/>
+  <member type="way" ref="118646980" role="outer"/>
+  <tag k="amenity" v="training"/>
+  <tag k="education" v="facultative_school"/>
+  <tag k="education_form:parttime" v="yes"/>
+  <tag k="education_level:primary" v="yes"/>
+  <tag k="education_profile:sport" v="yes"/>
+  <tag k="education_system:ru_standard" v="yes"/>
+  <tag k="name" v="Спортивная школа №29 &quot;Хамовники&quot;"/>
+  <tag k="official_name" v="Государственное бюджетное учреждение города Москвы « Спортивная школа № 29 « Хамовники» Департамента физической культуры и спорта города Москвы"/>
+  <tag k="short_name" v="ГБУ « Спортивная школа № 29 «Хамовники» Москомспорта"/>
+  <tag k="training" v="sport"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="1655243" visible="true" version="4" changeset="47246611" timestamp="2017-03-29T02:30:03Z" user="Alexander-II" uid="3580412">
+  <member type="way" ref="120745891" role="outer"/>
+  <member type="way" ref="118646980" role="outer"/>
+  <tag k="building" v="service"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="power" v="substation"/>
+  <tag k="substation" v="minor_distribution"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758109" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:06Z" user="Erelen" uid="1419157">
+  <member type="way" ref="104737604" role="outer"/>
+  <member type="way" ref="457354246" role="outer"/>
+  <member type="way" ref="457354244" role="outer"/>
+  <member type="way" ref="457354245" role="outer"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:street" v="3-я Фрунзенская улица"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="12"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758111" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:06Z" user="Erelen" uid="1419157">
+  <member type="way" ref="30433138" role="outer"/>
+  <member type="way" ref="457354246" role="outer"/>
+  <member type="way" ref="104737603" role="outer"/>
+  <member type="way" ref="457354245" role="outer"/>
+  <tag k="building:levels" v="10"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758112" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:07Z" user="Erelen" uid="1419157">
+  <member type="way" ref="30433138" role="outer"/>
+  <member type="way" ref="104737604" role="outer"/>
+  <tag k="building:levels" v="12"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758117" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:07Z" user="Erelen" uid="1419157">
+  <member type="way" ref="457354250" role="outer"/>
+  <member type="way" ref="457354251" role="outer"/>
+  <member type="way" ref="104362075" role="outer"/>
+  <member type="way" ref="457354252" role="outer"/>
+  <tag k="addr:housenumber" v="5 к1"/>
+  <tag k="addr:street" v="3-я Фрунзенская улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="10"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758119" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:07Z" user="Erelen" uid="1419157">
+  <member type="way" ref="118646985" role="outer"/>
+  <member type="way" ref="457354252" role="outer"/>
+  <member type="way" ref="104362068" role="outer"/>
+  <member type="way" ref="457354251" role="outer"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758120" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:07Z" user="Erelen" uid="1419157">
+  <member type="way" ref="118646985" role="outer"/>
+  <member type="way" ref="104362075" role="outer"/>
+  <tag k="building:levels" v="10"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758121" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:07Z" user="Erelen" uid="1419157">
+  <member type="way" ref="104737594" role="outer"/>
+  <member type="way" ref="457354259" role="outer"/>
+  <member type="way" ref="457354257" role="outer"/>
+  <member type="way" ref="457354255" role="outer"/>
+  <member type="way" ref="457354253" role="outer"/>
+  <member type="way" ref="457354254" role="outer"/>
+  <member type="way" ref="457354256" role="outer"/>
+  <member type="way" ref="457354258" role="outer"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:street" v="Фрунзенская набережная"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="16"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="6758122" visible="true" version="1" changeset="44128123" timestamp="2016-12-03T01:29:07Z" user="Erelen" uid="1419157">
+  <member type="way" ref="104737602" role="outer"/>
+  <member type="way" ref="457354253" role="outer"/>
+  <tag k="building:levels" v="10"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>
