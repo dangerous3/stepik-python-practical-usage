@@ -14,5 +14,5 @@ for node in dct['osm']['node']:
         if isinstance(tags, list):
             for tag in tags:
                 if '@k' in tag and tag['@k'] == 'shop':
-                    shops =+ 1
+                    shops += 1
 print(shops)
